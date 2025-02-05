@@ -1,0 +1,2 @@
+# MultiModuleiOSProjectWithCrashlytics
+マルチモジュール構成のiOSプロジェクトでFirebase Crashlyticsを適用するサンプルプロジェクト
